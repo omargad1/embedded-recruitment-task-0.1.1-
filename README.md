@@ -1,4 +1,4 @@
-# embedded-recruitment-task-0.0.1-
+# embedded-recruitment-task-0.0.1
 This project implements a robust, scalable, and multithreaded server-client architecture using **Rust**. The server processes client requests, supports concurrent client handling, and includes comprehensive test coverage to ensure reliability.
 
 ---
